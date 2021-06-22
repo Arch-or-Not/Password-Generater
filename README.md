@@ -1,2 +1,1 @@
-# Password-Generater
-Generated passwords are less likely to be subject to brute force attacks. Please share your feedback to make the program better.
+Usage: Run the program in the console and choose how many characters your password should be.
